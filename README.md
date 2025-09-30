@@ -26,8 +26,8 @@ INSTALLATION :
 
 Clone this repository:
 
-git clone https://github.com/yourusername/ai-kids-story-generator.git
-cd ai-kids-story-generator
+git clone https://github.com/Pranavi-84/AI-Powered-Interactive-Story-Telling.git
+cd 
 
 PROCESS :
 1.Create a virtual environment (recommended):
