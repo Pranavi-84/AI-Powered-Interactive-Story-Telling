@@ -27,7 +27,7 @@ INSTALLATION :
 Clone this repository:
 
 git clone https://github.com/Pranavi-84/AI-Powered-Interactive-Story-Telling.git
-cd 
+cd AI-Powered-Interactive-Story-Telling
 
 PROCESS :
 1.Create a virtual environment (recommended):
